@@ -1,5 +1,5 @@
 # nyu-travis-ci
-[![Build Status](https://travis-ci.org/huodahaha/lab-bluemix-cf.svg?branch=master)](https://travis-ci.org/huodahaha/lab-bluemix-cf)
+[![Build Status](https://travis-ci.org/huodahaha/lab-bluemix-cf.svg?branch=master)](https://travis-ci.org/huodahaha/lab-bluemix-cf) 
 [![Codecov](https://img.shields.io/codecov/c/github/nyu-devops/lab-travis-ci.svg)]()
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
     
